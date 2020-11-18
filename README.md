@@ -1,5 +1,5 @@
 # Contex.js
-Super-simple, customizable context menus
+Super-simple, customizable context menus based on Material Design
 
 ## Installing
 ```bash
